@@ -9,49 +9,26 @@ Most open-source real estate CRMs are outdated, difficult to extend, or tied to 
 
 ## Project structure
 
-/
-├── README.md
-├── CONTRIBUTING.md
-├── CODE_OF_CONDUCT.md
-├── SECURITY.md
-├── ROADMAP.md
-├── ARCHITECTURE.md
-├── CHANGELOG.md
-├── LICENSE
+```text
+.
+├── README.md                    # Project overview and setup guide
+├── CONTRIBUTING.md              # Contribution guidelines
+├── CODE_OF_CONDUCT.md           # Community code of conduct
+├── SECURITY.md                  # Security policy and vulnerability reporting
+├── ROADMAP.md                   # Planned features and milestones
+├── ARCHITECTURE.md              # System architecture documentation
+├── CHANGELOG.md                 # Release history
+├── LICENSE                      # GPL-3.0 License
 ├── docs/
-│   ├── erd/
-│   ├── api/
-│   ├── screenshots/
-│   └── architecture/
-├── .github/
-│   ├── ISSUE_TEMPLATE/
-│   ├── workflows/
-│   └── PULL_REQUEST_TEMPLATE.md
-
-## Features
-
-✔ Property Management
-✔ Customer Management
-✔ Leads
-✔ Pipeline
-✔ Tasks
-✔ Calendar
-✔ Reminders
-✔ Notes
-✔ File Manager
-✔ Media Library
-✔ Property Images
-✔ Contracts
-✔ User Roles
-✔ Permissions
-✔ Notifications
-✔ Reports
-✔ Dashboard
-✔ Search
-✔ REST API
-✔ Multi-language
-✔ Dark Mode
-✔ Docker Support
+│   ├── erd/                     # Entity Relationship Diagrams
+│   ├── api/                     # API documentation
+│   ├── screenshots/             # Application screenshots
+│   └── architecture/            # Architecture diagrams
+└── .github/
+    ├── ISSUE_TEMPLATE/          # GitHub issue templates
+    ├── workflows/               # GitHub Actions workflows
+    └── PULL_REQUEST_TEMPLATE.md # Pull request template
+```
 
 ## Tech Stack
 
