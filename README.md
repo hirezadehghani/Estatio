@@ -11,6 +11,7 @@ Most open-source real estate CRMs are outdated, difficult to extend, or tied to 
 
 ```text
 .
+├── source                       # Laravel source code
 ├── README.md                    # Project overview and setup guide
 ├── CONTRIBUTING.md              # Contribution guidelines
 ├── CODE_OF_CONDUCT.md           # Community code of conduct
