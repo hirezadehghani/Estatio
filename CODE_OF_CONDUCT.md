@@ -1,0 +1,1 @@
+Adopt the standard Contributor Covenant. It's widely recognized and helps set expectations for respectful collaboration.

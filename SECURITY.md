@@ -1,0 +1,1 @@
+Explain how security issues should be reported privately instead of opening a public issue, and how you'll handle disclosure.
