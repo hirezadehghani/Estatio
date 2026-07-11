@@ -1,4 +1,4 @@
-**Real Estate CRM**
+**Estatio — A modern open-source real estate CRM built with Laravel.**
 
 A modern open-source CRM for real estate agencies built with Laravel.
 
