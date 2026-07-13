@@ -5,6 +5,9 @@ First of all, thank you for considering contributing to Estatio ❤️
 Every contribution, whether it's fixing a typo or implementing a major feature,
 helps make the project better.
 
+Feel free to discuss and ask any questions about the project at the link below:
+https://github.com/hirezadehghani/Estatio/discussions
+
 ---
 
 # Ways to Contribute
