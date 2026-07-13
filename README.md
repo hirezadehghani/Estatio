@@ -1,53 +1,73 @@
-**Estatio — A modern open-source real estate CRM built with Laravel.**
+🏠 Estatio
+> **Modern Open-Source Real Estate CRM built with Laravel 13, React & Inertia.js**
+![Laravel](https://img.shields.io/badge/Laravel-13-red)
+![PHP](https://img.shields.io/badge/PHP-8.3+-777bb4)
+![React](https://img.shields.io/badge/React-19-61dafb)
+![License](https://img.shields.io/badge/License-GPL--3.0-blue)
+---
+✨ Features
 
-A modern open-source CRM for real estate agencies built with Laravel.
+🏘️ Property management\
+👥 Customer & lead management\
+📅 Appointment management\
+📊 Dashboard\
+🔐 Authentication\
+⚡ React + Inertia.js SPA\
+🎨 Tailwind CSS\
+🧪 Pest testing\
+🎨 Laravel Pint\
+🔍 Larastan\
+🚀 Vite
 
-Designed for agencies, brokers and property consultants.
+---
 
-**Vision**
-Most open-source real estate CRMs are outdated, difficult to extend, or tied to legacy technologies. This project aims to provide a modern, modular, API-first CRM built with Laravel that anyone can self-host, customize, and extend.
+🚀 Installation
+```bash
+git clone https://github.com/hirezadehghani/Estatio.git
+cd Estatio
 
-## Project structure
+composer install
+npm install
 
-```text
-.
-├── source                       # Laravel source code
-├── README.md                    # Project overview and setup guide
-├── CONTRIBUTING.md              # Contribution guidelines
-├── CODE_OF_CONDUCT.md           # Community code of conduct
-├── SECURITY.md                  # Security policy and vulnerability reporting
-├── ROADMAP.md                   # Planned features and milestones
-├── ARCHITECTURE.md              # System architecture documentation
-├── CHANGELOG.md                 # Release history
-├── LICENSE                      # GPL-3.0 License
-├── docs/
-│   ├── erd/                     # Entity Relationship Diagrams
-│   ├── api/                     # API documentation
-│   ├── screenshots/             # Application screenshots
-│   └── architecture/            # Architecture diagrams
-└── .github/
-    ├── ISSUE_TEMPLATE/          # GitHub issue templates
-    ├── workflows/               # GitHub Actions workflows
-    └── PULL_REQUEST_TEMPLATE.md # Pull request template
+cp .env.example .env
+php artisan key:generate
+php artisan migrate
+
+npm run dev
+php artisan serve
 ```
 
-## Tech Stack
+🧪 Testing
+```bash
+php artisan test
+```
 
-**Backend**
-Laravel 12
-PHP 8.2+
-MySQL
-Redis
-REST API
-Docker
+🎨 Code Style
+```bash
+./vendor/bin/pint
+```
 
-**Frontend**
-React
-Next.js
-TailwindCSS
-TypeScript
+🔍 Static Analysis
+```bash
+./vendor/bin/phpstan analyse
+```
 
+📚 Documentation
 
+See:\
+ARCHITECTURE.md\
+ROADMAP.md\
+CHANGELOG.md\
+CONTRIBUTING.md\
+SECURITY.md
+---
 
-## license
-GPL-3.0 Licensed
+🤝 Contributing
+Pull requests are welcome! Please read CONTRIBUTING.md before opening one.
+---
+
+⭐ Support
+If you like Estatio, please give the repository a ⭐ and share it with others.
+---
+📄 License
+GPL-3.0
