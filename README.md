@@ -9,11 +9,11 @@
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="./source/screenshot/dashboard-ui-1.jpg" width="100%" alt="Dashboard Preview 1" />
+  <img src="./source/screenshots/dashboard-ui-1.jpg" width="100%" alt="Dashboard Preview 1" />
   <br><br>
-  <img src="./source/screenshot/dashboard-ui-2.jpg" width="100%" alt="Dashboard Preview 2" />
+  <img src="./source/screenshots/dashboard-ui-2.jpg" width="100%" alt="Dashboard Preview 2" />
   <br><br>
-  <img src="./source/screenshot/dashboard-ui-3.jpg" width="100%" alt="Dashboard Preview 3" />
+  <img src="./source/screenshots/dashboard-ui-3.jpg" width="100%" alt="Dashboard Preview 3" />
 </p>
 
 ---
