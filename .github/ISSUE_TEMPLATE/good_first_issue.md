@@ -1,3 +1,10 @@
+---
+name: Good First Issue
+about: A small, beginner-friendly task to help new contributors.
+title: "[Good First Issue] "
+labels: ["good first issue", "help wanted"]
+assignees: ""
+---
 
 # 👋 Welcome!
 
