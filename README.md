@@ -5,6 +5,18 @@
 ![React](https://img.shields.io/badge/React-19-61dafb)
 ![License](https://img.shields.io/badge/License-GPL--3.0-blue)
 ---
+
+## 🖼️ Preview
+
+<p align="center">
+  <img src="./source/screenshots/dashboard-ui-1.jpg" width="100%" alt="Dashboard Preview 1" />
+  <br><br>
+  <img src="./source/screenshots/dashboard-ui-2.jpg" width="100%" alt="Dashboard Preview 2" />
+  <br><br>
+  <img src="./source/screenshots/dashboard-ui-3.jpg" width="100%" alt="Dashboard Preview 3" />
+</p>
+
+---
 ✨ Features
 
 🏘️ Property management\
