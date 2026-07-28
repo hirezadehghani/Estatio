@@ -14,6 +14,8 @@ https://github.com/hirezadehghani/Estatio/discussions
 
 You can help by:
 
+- **Submitting our surveys**
+- **Talking with me about your needs**
 - Reporting bugs
 - Suggesting new features
 - Improving documentation
